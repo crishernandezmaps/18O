@@ -32,7 +32,7 @@ La selección de videos, como explique más adelante no tiene una ‘línea edio
 
 Hay imágenes fuertes en los videos, por eso no inserto algunos de muestra aquí, pero dejo uno que fue el resultado de esa semana: ‘La Marcha más grande de Chile’ ([saber más](https://www.bbc.com/mundo/noticias-america-latina-50190029)):
 
-![marcha](https://youtu.be/blHqHBqJALI)
+[La Marcha mas grande de Chile](https://youtu.be/blHqHBqJALI)
 
 Finalmente, aquí se pueden encontrar TODOS los videos: https://mega.nz/folder/M1NW2JwC#F-vCtyhmRjvoDJ-hO-3ceg
 
